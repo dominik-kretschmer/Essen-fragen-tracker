@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "essenFrageSchreiber": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
